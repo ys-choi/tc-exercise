@@ -15,7 +15,7 @@ import org.springframework.context.annotation.Bean;
 /**
  * baseJobConfig
  * @author youngsikchoi
- *
+ * 123
  */
 public class BaseJobConfig {
 	
